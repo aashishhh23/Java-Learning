@@ -431,7 +431,7 @@ public class main {
 //        boolean b1= true;
 //        boolean b2 = false;
 
-// RELATIONAL OPERATOR :-Compare two value and return boolean result
+//                            Day-2       RELATIONAL OPERATOR :-Compare two value and return boolean result [engg. digest]
 
 //        int a =1;
 //        int b =2;
@@ -460,7 +460,9 @@ public class main {
 //        System.out.println(str3 == str2);
 
 
-        //   LOGICAL OPERATORS :-Add/ combine/ Match 2 condition/ values
+        //                                   LOGICAL OPERATORS :-Add/ combine/ Match 2 condition/ values
+
+        
         // 1]  && logical AND (Agar dono codition true hogi tbhi final result true hoga)
         // 2] ||  logical OR  (Agr dono m se kisi ek m v true hoti h toh final v true hoga)
         // 3]    ! logical NOT ( Ulta ho jata h)
@@ -498,7 +500,7 @@ public class main {
 //        System.out.println(a || b); // TRUE
 
 
-//    CONDITIONAL STATEMENTS
+//                                                   CONDITIONAL STATEMENTS
 
 //        int age = 20;
 //
@@ -649,7 +651,7 @@ public class main {
         //Enum types
 
 
-        // DAY-3 [ For / While / Do- While Loop  [ ENGINEERING DIGEST]
+                                            // DAY-3 [ For / While / Do- While Loop  [ ENGINEERING DIGEST]
 
    // WHILE LOOP
         //initialization
@@ -789,7 +791,7 @@ public class main {
 //
 //        System.out.println(res);
 
-        // Question [ NESTED LOOP]
+        //                                          Question [ NESTED LOOP]
         // *
         // **
         // ***
@@ -807,7 +809,7 @@ public class main {
 //        }
 
 
-//   BREAK AND CONTINUE
+//                                                      BREAK AND CONTINUE
 
 
 //int i= 0;
@@ -874,7 +876,7 @@ public class main {
 
 
 
-        // DAY -3 OOPS   CONCEPT [ KUNAL KUSHWAHA]
+        
 
         
 
